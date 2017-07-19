@@ -1,18 +1,18 @@
 html {
 }
-body { 
+body {
   font-family: 'Helvetica', 'Arial', 'sans-serif';
   text-align: center;
 }
-p { 
+p {
 }
-h1, h3, h5 { 
+h1, h3, h5 {
   font-family: 'Helvetica', 'Arial', 'sans-serif';
   color: #ffffff;
   text-align: center;
   font-weight: 400;
-}
 .Navbar {
+}
 }
 .WhiteSection {
   background-color: #ffffff;
