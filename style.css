@@ -6,6 +6,9 @@ body {
 }
 p {
 }
+em {
+  font-style: oblique;
+}
 h1, h3, h5 {
   font-family: 'Helvetica', 'Arial', 'sans-serif';
   color: #ffffff;
